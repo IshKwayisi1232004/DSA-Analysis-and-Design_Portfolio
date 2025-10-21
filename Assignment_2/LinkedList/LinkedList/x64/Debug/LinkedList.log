@@ -1,0 +1,3 @@
+﻿  LinkedList.cpp
+C:\Users\spyro\OneDrive\Desktop\CS300\Assignment_2\LinkedList\LinkedList.cpp(321,27): warning C4018: '<': signed/unsigned mismatch
+  LinkedList.vcxproj -> C:\Users\spyro\OneDrive\Desktop\CS300\Assignment_2\LinkedList\x64\Debug\LinkedList.exe
